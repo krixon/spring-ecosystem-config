@@ -1,4 +1,1 @@
-eureka:
-  instance:
-    hostname: localhost
-    non-secure-port: ${server.port}
+
